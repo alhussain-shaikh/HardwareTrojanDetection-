@@ -1,0 +1,32 @@
+Test Vector: 1 1 1 
+PATH (EdgeNumber-[GateNumber]): 20-[4]-25-[6]-27-[7]-
+Test Vector: 0 1 1 
+PATH (EdgeNumber-[GateNumber]): 21-[3]-24-[5]-26-[6]-27-[7]-
+Test Vector: 0 1 1 
+PATH (EdgeNumber-[GateNumber]): 22-[5]-26-[6]-27-[7]-
+Test Vector: 1 1 1 
+PATH (EdgeNumber-[GateNumber]): 23-[4]-25-[6]-27-[7]-
+Test Vector: 0 1 1 
+PATH (EdgeNumber-[GateNumber]): 24-[5]-26-[6]-27-[7]-
+Test Vector: 1 1 1 
+PATH (EdgeNumber-[GateNumber]): 25-[6]-27-[7]-
+Test Vector: 0 0 x 
+PATH (EdgeNumber-[GateNumber]): 26-[6]-27-[7]-
+Test Vector: x x x 
+PATH (EdgeNumber-[GateNumber]): 27-[7]-
+Test Vector: 0 1 1 
+PATH (EdgeNumber-[GateNumber]): 20-[4]-25-[6]-27-[7]-
+Test Vector: 0 0 1 
+PATH (EdgeNumber-[GateNumber]): 21-[3]-24-[5]-26-[6]-27-[7]-
+Test Vector: 0 1 0 
+PATH (EdgeNumber-[GateNumber]): 22-[5]-26-[6]-27-[7]-
+Test Vector: 1 0 1 
+PATH (EdgeNumber-[GateNumber]): 23-[4]-25-[6]-27-[7]-
+Test Vector: 0 0 1 
+PATH (EdgeNumber-[GateNumber]): 24-[5]-26-[6]-27-[7]-
+Test Vector: x 0 1 
+PATH (EdgeNumber-[GateNumber]): 25-[6]-27-[7]-
+Test Vector: 0 1 1 
+PATH (EdgeNumber-[GateNumber]): 26-[6]-27-[7]-
+Test Vector: x x x 
+PATH (EdgeNumber-[GateNumber]): 27-[7]-
