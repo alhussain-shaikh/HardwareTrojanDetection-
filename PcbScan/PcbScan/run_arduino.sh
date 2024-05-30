@@ -1,1 +1,0 @@
-python main.py -output_dir example_node -input_path nodeInput.jpg -reference_path Referenced1.jpg -n 16 -window_size 7 -pca_dim_gray 3 -pca_dim_rgb 5 -resize_factor 0.2 -lighting_fix -use_homography -save_extra_stuff
