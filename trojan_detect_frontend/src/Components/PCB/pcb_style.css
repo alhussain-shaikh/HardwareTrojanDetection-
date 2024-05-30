@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; 
+}
+
+.main {
+    max-width: 600px;
+    margin: auto;
+    padding: 60px;
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px;
+    margin-top: 1%;
+    height: 500px;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 9%;
+}
+  
+h2, h3 {
+    color: #333; 
+}
+  
+#pcbContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+/* label {
+    margin-bottom: 8px;
+    font-size: x-large;
+    padding-left: 15px;
+} */
+  
+input[type="file"] {
+    margin-bottom: 16px;
+    font-size: x-large;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+  
+.main button {
+    padding: 10px 20px;
+    background-color: #007bff; 
+    color: #fff; 
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: x-large;
+    margin-top: 30px;
+}
+  
+button:hover {
+    background-color: #0056b3; 
+}
+  
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 16px;
+}
+
+input[type=file]::file-selector-button {
+    margin-right: 20px; 
+    border: none;
+    background: #007bff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: "background .2s ease-in-out";
+}
+  
+input[type=file]::file-selector-button:hover {
+    background: #0056b3;
+}
